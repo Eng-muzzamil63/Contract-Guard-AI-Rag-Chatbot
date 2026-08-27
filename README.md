@@ -1,4 +1,4 @@
-# Contract-Guard-AI-Rag-Chatbot
+ContractGuard AI — AI-Powered Contract Risk & Business Intelligence
 
 # ContractGuard AI
 
